@@ -35,6 +35,7 @@ Follow this Link to learn about plotting data!
 ::: {.g-col-6}
 ### [Data Exploration Project](projects/eda.qmd)
 Learn how I explore datasets to find interesting patterns and answer questions.
+[Data Acquisition Project](projects/blog.html)
 :::
 
 ::: {.g-col-6}
